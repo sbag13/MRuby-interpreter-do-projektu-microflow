@@ -1,3 +1,10 @@
+/*
+Created by Szymon Bagiński
+baginski.szymon@gmail.com
+Wrocław University of Technology
+Dec 2017
+*/
+
 #ifndef MRUBY_INTERPRETER_HPP
 #define MRUBY_INTERPRETER_HPP
 

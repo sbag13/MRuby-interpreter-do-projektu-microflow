@@ -1,3 +1,10 @@
+/*
+Created by Szymon Bagiński
+baginski.szymon@gmail.com
+Wrocław University of Technology
+Dec 2017
+*/
+
 #include "RubyInterpreter.hpp"
 #include "Exceptions.hpp"
 

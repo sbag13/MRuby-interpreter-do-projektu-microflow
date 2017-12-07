@@ -1,3 +1,10 @@
+/*
+Modified by Szymon Bagiński
+baginski.szymon@gmail.com
+Wrocław University of Technology
+Dec 2017
+*/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

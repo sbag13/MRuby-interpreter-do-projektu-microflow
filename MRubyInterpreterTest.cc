@@ -1,5 +1,11 @@
-#include "gtest/gtest.h"
+/*
+Modified by Szymon Bagiński
+baginski.szymon@gmail.com
+Wrocław University of Technology
+Dec 2017
+*/
 
+#include "gtest/gtest.h"
 #include "RubyInterpreter.hpp"
 #include "NodeLayoutTest.hpp"
 
